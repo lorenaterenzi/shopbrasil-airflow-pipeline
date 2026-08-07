@@ -25,7 +25,7 @@ Este repositório contém o projeto de modernização da arquitetura de ingestã
 
 #### 1. Clone o repositório e navegue até a pasta do projeto:
    ```bash
-   git clone <link>
+   git clone <https://github.com/lorenaterenzi/shopbrasil-airflow-pipeline>
    cd shopbrasil-airflow-pipeline
    ```
 
